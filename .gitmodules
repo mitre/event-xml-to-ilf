@@ -3,7 +3,7 @@
 	url = https://github.com/nlohmann/json
 [submodule "lib/libilf"]
 	path = lib/libilf
-	url = https://gitlab.mitre.org/seal/libilf
+	url = https://github.com/mitre/lib_ilf.git
 	
 [submodule "lib/redis-plus-plus"]
 	path = lib/redis-plus-plus
