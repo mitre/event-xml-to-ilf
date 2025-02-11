@@ -1,19 +1,12 @@
-[submodule "json"]
-	path = lib/json
-	url = https://github.com/nlohmann/json
-[submodule "lib/libilf"]
-	path = lib/libilf
-	url = https://github.com/mitre/lib_ilf.git
-	
 [submodule "lib/redis-plus-plus"]
 	path = lib/redis-plus-plus
 	url = https://github.com/sewenew/redis-plus-plus.git
-[submodule "lib/json"]
-	path = lib/json
-	url = https://github.com/nlohmann/json
-[submodule "lib/hiredis"]
-	path = lib/hiredis
-	url = https://github.com/redis/hiredis.git
 [submodule "lib/sysmon_configurations"]
 	path = lib/sysmon_configurations
 	url = https://github.com/mitre/sysmon-config.git
+[submodule "lib/hiredis"]
+	path = lib/hiredis
+	url = https://github.com/redis/hiredis.git
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json
