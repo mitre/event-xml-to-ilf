@@ -1,0 +1,8 @@
+build/
+lib/redis-plus-plus/build
+lib/redis-plus-plus/src
+lib/redis/redis_config.json
+src/main*
+*.xml
+*.ilf
+CMakeUserPresets.json
