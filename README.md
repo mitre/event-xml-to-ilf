@@ -6,7 +6,7 @@ The program leverages many open source libraries, including the XML DOM parser [
 # Configuration Files
 The translator **requires** configuration files to function, which it expects to reside in the `sysmon_configuration` module. These files specify which fields of the Sysmon events to process and which ECS (Elastic Common Schema) fields it should map the them to. 
 
-Please refer to that module's [README](link) for further information about them and how to generate them. 
+Please refer to that module's [README](https://github.com/mitre/sysmon-config) for further information about them and how to generate them. 
 
 **Notes:** 
 
