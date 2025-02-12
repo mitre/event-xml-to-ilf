@@ -4,7 +4,7 @@ This C++ program translates [Windows Sysmon](https://learn.microsoft.com/en-us/s
 The program leverages many open source libraries, including the XML DOM parser [pugixml](https://pugixml.org/), JSON for C++, redis++ and hiredis.
 
 # Configuration Files
-The translator **requires** configuration files to function, which it expects to reside in the `sysmon_configuration` module. These files specify which fields of the Sysmon events to process and which ECS (Elastic Common Schema) fields it should map the them to. 
+The translator **requires** configuration files to function, which it expects to reside in the `sysmon_configuration` module. These files specify which fields of the Sysmon events to process and which ECS (Elastic Common Schema) fields it should map them to. 
 
 Please refer to that module's [README](https://github.com/mitre/sysmon-config) for further information about them and how to generate them. 
 
